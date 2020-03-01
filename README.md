@@ -1,2 +1,4 @@
 # Appunti
-Progetto Scambio Appunti open-source
+Comunità Scambio Appunti Open-Source
+
+
